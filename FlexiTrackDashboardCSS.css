@@ -1,0 +1,151 @@
+#welcome-text {
+    position: absolute;
+    top: 150px;
+    right: 70px;
+    font-size: 20px;
+    font-family:'Roboto', sans-serif;
+    font-weight: 600;
+}
+.left-side-bar {
+    background-color:rgb(52, 52, 212);
+    position: fixed;
+    width: 230px;
+    height: 705px;
+    top: 15px ;
+    left: 20px;
+    bottom: 20px;
+    border-radius: 50px;
+    box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.right-side-bar {
+    position: fixed;
+    /* background-color: rgb(239, 227, 227); */
+    background-color: rgb(239, 237, 237);
+    width: 300px;
+    height: 705px;
+    top:15px;
+    right: 20px;
+    bottom:20px;
+    border-radius: 50px;
+    
+}
+.profile-pic {
+    width: 100px;
+    border-radius: 50px;
+    position: absolute;
+    top: 60px;
+    right: 100px;
+}
+.update-data-bubble {
+    position: absolute;
+    background-color: white;
+    width: 260px;
+    border-radius: 50px;
+    top: 225px;
+    left: 20px;
+    bottom: 20px;
+}
+.update-data-text {
+    font-family:'Roboto', sans-serif;
+    position: absolute;
+    left: 40px;
+    font-weight: 600px;
+    font-size: 20px;
+}
+.steps-text {
+    font-family:'Roboto', sans-serif;
+    position: absolute;
+    left: 55px;
+    font-weight: 600px;
+    font-size: 20px;
+    top: 60px;
+
+}
+.bsl-text {
+    font-family:'Roboto', sans-serif;
+    position: absolute;
+    left: 50px;
+    font-weight: 600px;
+    font-size: 20px;
+    top: 170px;
+
+}
+.moe-text {
+    font-family:'Roboto', sans-serif;
+    position: absolute;
+    left: 40px;
+    font-weight: 600px;
+    font-size: 20px;
+    top: 300px;
+
+}
+.numberofsteps-input {
+    position: absolute;
+    top: 120px;
+    left: 45px;
+    height: 40px;
+    text-align: center;
+    width: 160px;
+    font-size: 30px;
+}
+.bsl-input {
+    position: absolute;
+    top: 240px;
+    left: 45px;
+    height: 40px;
+    text-align: center;
+    width: 160px;
+    font-size: 30px;
+}
+.moe-input {
+    position: absolute;
+    top: 360px;
+    left: 45px;
+    height: 40px;
+    text-align: center;
+    width: 160px;
+    font-size: 30px;
+}   
+.submit-data-button {
+    position: absolute;
+    top: 420px;
+    left: 110px;
+}
+
+
+p.left-side-bar-dashboard-text {
+    font-family:'Roboto', sans-serif;
+    color: white;
+    position: absolute;
+    top: -20px;
+    left: 65px;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.upper-middle-bubble {
+    background-color: rgb(240, 240, 240);
+    position:fixed;
+    top: 15px;
+    left: 300px;
+    width: 850px;
+    height: 375px;
+    border-radius: 50px;
+    box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.steps-graph {
+    position: absolute;
+    width: 700px;
+    height: 280px;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    top: 40px;
+    left: 70px;
+}
+
+
+
+
+
+
+

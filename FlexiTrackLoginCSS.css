@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(52, 52, 212);
+}
+.log-in-box {
+    background-color: white;
+    height: 500px;
+    width:  450px;
+    margin-left: 550px;
+    margin-top: 100px;
+    border-radius: 50px;
+    position:relative;
+}
+.log-in-text {
+    position: absolute;
+    top: 5px;
+    left:50px;
+    font-size: 50px;
+}
+.username-box {
+    position: absolute;
+    top: 160px;
+    left: 52px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    width: 350px;
+    height: 60px;
+    font-size: 30px;
+}
+.password-box {
+    position: absolute;
+    top: 280px;
+    left: 52px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    width: 350px;
+    height: 60px;
+    font-size: 30px;
+}
+.sign-in-box {
+    position: absolute;
+    top: 400px;
+    left: 50px;
+    width: 350px;
+    height: 40px;   
+    background-color: greenyellow;
+    border: none;
+    border-radius: 20px;
+}
+.sign-in-box:hover {
+    opacity: 0.5;
+}
+
+
+
